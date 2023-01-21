@@ -1,5 +1,4 @@
 # Medlin-geo676
-# Medlin-geo676
 |Labs      |
 |:--------:|
 |[lab1](lab1/README.md)|
