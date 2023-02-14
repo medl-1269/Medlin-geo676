@@ -8,3 +8,4 @@
 |[lab5](lab5/README.md)|
 |[lab6](lab6/README.md)|
 |[lab7](lab7/README.md)|
+|[lab8](lab8/README.md)|
