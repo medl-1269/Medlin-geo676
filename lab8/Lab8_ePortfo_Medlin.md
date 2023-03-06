@@ -27,9 +27,11 @@ Finally the tool can be created by using the methods outlined in [Lab 5](https:/
 
 ## Outputs
 **Surface Volume**
+
 This tool will produce a table with the total surface volume for the users specified study area for the input raster's year. To get the total san volume loss, the user will need to take the difference between the two years (aka - use subtraction). This method can be done through code if the user wishes by following the methods outlined in Lab 2.
 
 **CutFill**
+
 This will give a map containing the net gain, net loss, and unchanged surface volume areas in the users study area. 
 
 This tool will also give you an attribute table containing positive values that represent regions in the study area before the raster surface had been cut. Then negative values indicating regions of the study area had been filled. 
