@@ -1,5 +1,8 @@
 # Lauren Medlin     Spring 2023     GEOG 676 Lab 8 ePortfolio
 
+## Introduction
+Coastal dunes are essential to help protect development from extreme weather events, high winds, storm surges, and sea level rise. These coastal environments are constantly shifting and moving due to rain, wind, and tides. Extreme weather events such as hurricanes cause rapid reduction of coastal sand dunes and leave development vulnerable to damage and beach erosion. Beach erosion is costly, and the absence of sand dunes leaves coastal communities more susceptible to damage from extreme weather events, which can cost millions of dollars. Understanding the impacts hurricanes have on coastal environments will aid in the protection of sand dunes and coastal communities from hurricane events.
+
 ## Project Problem
 This Project will try to solve the problem of identifying the sand volume loss on the Texas Gulf Coast after Hurricane Harvey. This project will primarily focus on creating a tool simultaneously run surface volume tool and cutfill tool to evaluate the sand volume loss in Galveston Island and San Jose Island. The goal of this project is to utilize tools in ArcGIS Pro to help identify the sand volume loss before and after Hurricane Harvey as well as identify the areas of net gain or loss. The tools that will be utilize include 1) Conversion of Laz to DEM, 2) ModelBuilder, 3) Surface Volume, and 4) Cutfill.
 
